@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0AA2-6690
+
+ Directory of C:\Users\UYT000\Desktop\s
+
+04-02-2019  19:34    <DIR>          .
+04-02-2019  19:34    <DIR>          ..
+04-02-2019  19:34                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  968,390,094,848 bytes free
